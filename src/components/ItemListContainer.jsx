@@ -1,6 +1,7 @@
+import './ItemListContainer.css';
 function ItemListCointainer ({saludar}){
     return(
-        <div>
+        <div className="greetingStyle">
             <h3>
                 {saludar}
             </h3>

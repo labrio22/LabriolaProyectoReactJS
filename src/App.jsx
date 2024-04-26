@@ -9,7 +9,7 @@ return <div>
         <Brand />
         <NavBar />
         </div>
-        <ItemListCointainer saludar="Bievenidos a FitnessLab"/>
+        <ItemListCointainer saludar="Bienvenidos, gracias por visitarnos"/>
     </div>
 }
 

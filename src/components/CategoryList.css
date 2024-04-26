@@ -1,6 +1,7 @@
 .categoryListStyle{
     display: flex;
     list-style: none;
-    gap: 10px;
+    font-size: 25px;
+    gap: 50px;
 
 }

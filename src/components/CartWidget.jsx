@@ -2,10 +2,11 @@ import CartIcon from "./CartIcon";
 
 function CartWidget(){
     return (
-        <div>
+       <div>
             <CartIcon />
-            <p>5</p>
-        </div>
+            <span>5</span> 
+       </div>
+        
     )
 }
 
